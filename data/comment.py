@@ -1,3 +1,4 @@
 user_response = {
-    "yes"
+    "yes",
+    "no"
 }
